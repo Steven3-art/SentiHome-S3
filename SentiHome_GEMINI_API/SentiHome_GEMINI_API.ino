@@ -34,7 +34,7 @@ WebServer httpServer(80);
 // ================================================================
 const char* WIFI_SSID     = "BIKO";
 const char* WIFI_PASSWORD = "Bilourachel02/*";
-const char* GEMINI_API_KEY = "AIzaSyAS602abkK6xXOzN4droDDFeJ1rLo77yUM";
+const char* GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE";
 const char* NUMERO_SMS     = "+237699166726";
 const char* CAM_IP         = "192.168.100.11";
 // ================================================================
